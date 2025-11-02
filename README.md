@@ -13,11 +13,6 @@ An automated tool that discovers, collects, and organizes a unique database of i
 ## Installation
 
 1. Make sure Python 3.7+ is installed on your system
-2. Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
